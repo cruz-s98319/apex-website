@@ -23,6 +23,12 @@ function NavBar() {
                 <Nav.Item>
                     <Nav.Link eventKey="/news">NEWS & MEDIA</Nav.Link>
                 </Nav.Item>
+                <Nav.Item>
+                    <Nav.Link eventKey="/community">COMMUNITY</Nav.Link>
+                </Nav.Item>
+                <Nav.Item>
+                    <Nav.Link eventKey="/compete">COMPETE</Nav.Link>
+                </Nav.Item>
                 <Button variant="danger">DOWNLOAD FOR FREE<sup>*</sup></Button>
             </Nav>
         </>
