@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.logo {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(63, 63, 63);
+  height: 400px;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
